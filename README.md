@@ -1,4 +1,7 @@
-### Hi Ya! 🐧
+### Hi Ya!
+
+![penguin](https://user-images.githubusercontent.com/69885780/171986401-8832b6bb-e072-4fbb-987a-86c14157baca.gif)
+
 
 <!--
 **Spark631/Spark631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
