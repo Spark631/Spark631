@@ -2,6 +2,8 @@
 
 ![penguin](https://user-images.githubusercontent.com/69885780/171986401-8832b6bb-e072-4fbb-987a-86c14157baca.gif)
 
+<!-- ![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark631) -->
+![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark631&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **Spark631/Spark631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
