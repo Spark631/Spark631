@@ -3,7 +3,7 @@
 ![penguin](https://user-images.githubusercontent.com/69885780/171986401-8832b6bb-e072-4fbb-987a-86c14157baca.gif)
 
 <!-- ![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark631) -->
-![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark631&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spark631&layout=compact&theme=tokyonight&langs_count=8)
+![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark631&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spark631&layout=compact&theme=tokyonight&langs_count=6)
 
 
 <!--
